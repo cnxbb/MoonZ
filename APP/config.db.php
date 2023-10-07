@@ -1,5 +1,5 @@
 <?php
-define( 'MZ_DB_Host', '127.0.0.1' );
-define( 'MZ_DB_User', 'root' );
-define( 'MZ_DB_Password', 'Qxy[%nN%WRJ9^cffjW5YP{NY#NFJ' );
-define( 'MZ_DB_Database', '3dTianMUS' );
+define( 'MZ_DB_Host', 'mysql 数据库IP地址' );
+define( 'MZ_DB_User', 'mysql 数据库用户名' );
+define( 'MZ_DB_Password', 'mysql 数据库密码' );
+define( 'MZ_DB_Database', 'mysql 数据库 库名称' );
